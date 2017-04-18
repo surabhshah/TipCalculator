@@ -1,0 +1,4 @@
+TipCalculator.MainActivity, TipCalculator;md570e442a39f3100848a7434e08c4d6b00.MainActivity
+TipCalculator.MainActivity, TipCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md570e442a39f3100848a7434e08c4d6b00.MainActivity
+TipCalculator.MainActivity;md570e442a39f3100848a7434e08c4d6b00.MainActivity
+tipcalculator.MainActivity;md570e442a39f3100848a7434e08c4d6b00.MainActivity
